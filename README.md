@@ -20,7 +20,7 @@ Installation
 ```
 local drop = require("attachdrop")
 
-globalkeys = awful.util.table.join(
+globalkeys = awful.util.table.join(globalkeys,
     -- attach terminal to `
     awful.key({ modkey,           }, "`", function () drop.toggle("terminator --profile=POP", "left", "top", 0.8, 0.8) end),
     -- after reload awesomewm losses all drop windows so they must be reattached
