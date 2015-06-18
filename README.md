@@ -5,7 +5,7 @@ AwesomeWM Quake like windows management
 
 Based on [Stratchpad](https://awesome.naquadah.org/wiki/Scratchpad_manager)
 
-Show/hide windows by pressing Mod + < key > like Quake console
+Show/hide windows by pressing Mod + < key >
 
 Features
 --------
